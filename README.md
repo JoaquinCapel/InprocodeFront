@@ -12,14 +12,18 @@ Bienvenido al frontend de Inprocode, la interfaz visual para interactuar con los
    git clone https://github.com/tu-usuario/inprocode-frontend.git
 
 1. Accede al directorio del proyecto
+   ```bash
    cd inprocode-frontend
 
-2. Instala las dependencias.
+3. Instala las dependencias.
+   ```bash
    npm install
 
 Cómo Iniciar
 1.Inicia el servidor de desarrollo.
+```bash
   ng serve -o
+```
 Este comando abrirá automáticamente tu navegador en http://localhost:4200/, donde podrás visualizar el frontend de Inprocode.
 
 Funcionalidades Destacadas

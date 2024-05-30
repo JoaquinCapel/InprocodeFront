@@ -19,7 +19,6 @@ La API sigue los principios de arquitectura RESTful, lo que facilita su integrac
 - TypeScript
 - [Bootstrap](https://getbootstrap.com/) version 5.3.2.
 - [Angular CLI](https://angular.dev/) version 17.0.10.
-- [Angular Material](https://material.angular.io/) version 17.1.0.
 - [Mapbox](https://www.mapbox.com/)
 - [FullCalendar](https://fullcalendar.io/docs/angular)
 - [Chart.js](https://www.chartjs.org/docs/latest/)
